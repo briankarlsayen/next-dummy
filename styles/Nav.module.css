@@ -1,0 +1,17 @@
+.container {
+  min-height: 10px;
+  flex: 1;
+  display: flex;
+  align-items: center;
+  background-color: black;
+  color: white;
+}
+
+.container ul {
+  display: flex;
+  list-style-type: none;
+}
+
+.container li {
+  padding: 0.5rem
+}
